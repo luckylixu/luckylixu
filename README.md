@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luckylixu
 - 👀 I’m interested in Meterorology and climate
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on numpy
+
+
 - 📫 How to reach me ...
 
 <!---
